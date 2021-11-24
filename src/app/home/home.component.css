@@ -1,0 +1,21 @@
+.rmd-border{
+    border-left-color: #fff;
+    border-bottom-color: transparent ;
+    border-bottom-width: 50px;
+    border-right-color: transparent ;
+    border-top-color: transparent ;
+
+}
+img{
+    width: 35px;
+    color: #fff;
+}
+.rmd-imagen{
+    display: block;
+}
+
+@media (max-width:474px) {
+    .rmd-imagen{
+        display: none;
+    }
+}

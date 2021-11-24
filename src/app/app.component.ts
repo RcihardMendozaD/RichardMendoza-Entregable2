@@ -8,3 +8,8 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'page-gym';
 }
+
+  
+let arrListaURL:string[] = ['home','planes','objetivo'];
+console.log(arrListaURL);
+
